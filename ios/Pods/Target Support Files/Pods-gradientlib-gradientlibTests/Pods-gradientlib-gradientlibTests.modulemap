@@ -1,0 +1,6 @@
+module Pods_gradientlib_gradientlibTests {
+  umbrella header "Pods-gradientlib-gradientlibTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
